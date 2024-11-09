@@ -43,7 +43,7 @@ return 1;
 }
 
 
-//OUTPUT
+/*OUTPUT
 
 Lex Programing
 
@@ -68,5 +68,7 @@ Total numbers: 1
 Total tokens: 10
 
 PROGRAM ENDED
+
+*/
 
 
